@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="30dp"
+    android:layout_height="30dp"
+    android:id="@+id/seatImageView"
+    android:gravity="center"
+    android:background="@drawable/ic_seat_available"
+    android:text="-"
+    android:textSize="12sp"
+    android:textColor="@color/black"
+    android:layout_margin="4dp">
+
+</TextView>
